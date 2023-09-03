@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "ad": "33 iç oluk askısı",
+        "açıklama": "Bu ürünün açıklaması.",
+        "ana fotoğraf": "ana_fotograf.jpg",
+        "üç adet fotoğraf": ["foto1.jpg", "foto2.jpg", "foto3.jpg"],
+        "detaylı açıklama": ["Detay 1", "Detay 2", "Detay 3"]
+    },
+    {
+        "id": 2,
+        "ad": "30 gergili iç askı",
+        "açıklama": "Bu ürünün açıklaması.",
+        "ana fotoğraf": "ana_fotograf2.jpg",
+        "üç adet fotoğraf": ["foto4.jpg", "foto5.jpg", "foto6.jpg"],
+        "detaylı açıklama": ["Detay 4", "Detay 5", "Detay 6"]
+    }
+]
